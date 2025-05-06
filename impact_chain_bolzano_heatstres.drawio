@@ -107,7 +107,7 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object label="Urban Heat Island effect" Description="The specific topology of road network in the town of Genoa shows evidences of non-redundancy, in particular in the hilly areas characterized by small and meandering roads." Type="Vulnerability" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this component (if applicable)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" References="Cited references (scientific papers, news item, etc." Confidence="medium (moderate evidence) to high (robust evidence)." id="GEd216P_miA6AbYHsWlQ-8">
+        <object label="Urban Heat Island effect" Description="The morphology and composition of the urban environment, including the distribution and extent of green and blue areas, determine strong heterogeneity in the surface and air temperature. This is referred to as &quot;heat island effect&quot; and can exacerbate the effect of heatwaves" Type="Vulnerability" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this component (if applicable)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" References="Cited references (scientific papers, news item, etc." Confidence="medium (moderate evidence) to high (robust evidence)." id="GEd216P_miA6AbYHsWlQ-8">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="20" y="-350" width="120" height="60" as="geometry" />
           </mxCell>
