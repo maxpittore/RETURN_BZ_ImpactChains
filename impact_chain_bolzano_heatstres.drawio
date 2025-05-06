@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="26.2.14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="26.2.14">
   <diagram name="Pagina-1" id="luuT_doJFNInnU2bNvtK">
-    <mxGraphModel dx="2702" dy="1709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2173" dy="1481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <object label="" Impact_chain_title="Impact Chain BOLZANO - Multi-hazard / multi-risk" impact_chain_geographical_scope="Municipality of Bolzano, Trentino/Alto-Adige, Italy" impact_chain_temporal_scope="Current time, short-term future" impact_chain_authors="" Impact_chain_references="" impact_chain_purpose="Analysis of key risks related to climate-affected natural hazards (fluvial floods, landslides, heatwaves) on the municipality of Bolzano." impact_chain_last_modified="" id="0">
           <mxCell />
@@ -228,7 +228,7 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object label="Increase of indoor PM" Description="Strong traffic disturbance includes the segregation of residential areas as well as critical infrastructure, leading to increase travel time and possibly inability to reach certain places." Type="Impact" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this component (if applicable)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" References="Cited references (scientific papers, news item, etc." Confidence="medium (moderate evidence) or high (robust evidence)." id="7azoTFsJbE2xDn5kk4Lu-3">
+        <object label="Increase of indoor PM" Description="Increase of indoor Particulate Matter." Type="Impact" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this component (if applicable)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" References="Cited references (scientific papers, news item, etc." Confidence="medium (moderate evidence) or high (robust evidence)." id="7azoTFsJbE2xDn5kk4Lu-3">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=light-dark(#CCCCCC,#202020);strokeColor=#36393d;glass=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="-460" y="-260" width="120" height="60" as="geometry" />
           </mxCell>
