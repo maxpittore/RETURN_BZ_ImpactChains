@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.0.16">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="26.2.14">
   <diagram name="Pagina-1" id="luuT_doJFNInnU2bNvtK">
-    <mxGraphModel dx="2977" dy="1779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2702" dy="1709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <object label="" Impact_chain_title="Impact Chain BOLZANO - Multi-hazard / multi-risk" impact_chain_geographical_scope="Municipality of Bolzano, Trentino/Alto-Adige, Italy" impact_chain_temporal_scope="Current time, short-term future" impact_chain_authors="" Impact_chain_references="" impact_chain_purpose="Analysis of key risks related to climate-affected natural hazards (fluvial floods, landslides, heatwaves) on the municipality of Bolzano." impact_chain_last_modified="" id="0">
           <mxCell />
@@ -75,7 +75,7 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object label="Increased stress of urban green" Description="Strong traffic disturbance includes the segregation of residential areas as well as critical infrastructure, leading to increase travel time and possibly inability to reach certain places." Type="Impact" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this component (if applicable)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" References="Cited references (scientific papers, news item, etc." Confidence="medium (moderate evidence) or high (robust evidence)." id="GEd216P_miA6AbYHsWlQ-4">
+        <object label="Increased stress of urban green" Description="Reduced growth and productivity and transpiration of urban vegetation" Type="Impact" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this component (if applicable)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" References="Cited references (scientific papers, news item, etc." Confidence="medium (moderate evidence) or high (robust evidence)." id="GEd216P_miA6AbYHsWlQ-4">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=light-dark(#CCCCCC,#202020);strokeColor=#36393d;glass=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="-250" y="-310" width="120" height="60" as="geometry" />
           </mxCell>
@@ -112,7 +112,7 @@
             <mxGeometry x="20" y="-350" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;b&gt;Leads to&lt;/b&gt;" Description="Landslides can both directly damage the surface of the road, or make them locally unusable due to debris accumulation. [please substitute with your text!]. " References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="high (robust evidence)." Time_Lag="minutes to hours&#xa;" id="GEd216P_miA6AbYHsWlQ-12">
+        <object label="&lt;b&gt;Leads to&lt;/b&gt;" Description="increase of frequency and intensity of heatwaves can lead to stress to urban green, for instance in terms of reduced growth and productivity and transpiration of urban vegetation." References="Chen et al. (2024) &quot;Divergent Drivers of Declining Urban Vegetation Productivity and Transpiration During Heatwaves&quot; (https://doi.org/10.1029/2023JD040390)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other): literature" Confidence="high (robust evidence)." Time_Lag="days to weeks&#xa;" id="GEd216P_miA6AbYHsWlQ-12">
           <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="GEd216P_miA6AbYHsWlQ-1" target="GEd216P_miA6AbYHsWlQ-4" edge="1">
             <mxGeometry x="0.018" width="50" height="50" relative="1" as="geometry">
               <mxPoint y="-340" as="sourcePoint" />
