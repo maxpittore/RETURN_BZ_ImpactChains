@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.11">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.1">
   <diagram name="Pagina-1" id="luuT_doJFNInnU2bNvtK">
-    <mxGraphModel dx="2977" dy="2081" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2440" dy="1574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <object label="" Impact_chain_title="Impact Chain BOLZANO - Multi-hazard / multi-risk" impact_chain_geographical_scope="Municipality of Bolzano, Trentino/Alto-Adige, Italy" impact_chain_temporal_scope="Current time, short-term future" impact_chain_authors="" Impact_chain_references="" impact_chain_purpose="Analysis of key risks related to climate-affected natural hazards (fluvial floods, landslides, heatwaves) on the municipality of Bolzano." impact_chain_last_modified="" id="0">
           <mxCell />
@@ -86,7 +86,7 @@
         </object>
         <object label="Physical vulnerability" Description="Description of the Vulnerability" Type="Vulnerability" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this component (if applicable)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" References="Cited references (scientific papers, news item, etc." Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." id="_F0MfmOvoYsbLBurmLUC-61">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=0;shadow=0;" parent="1" vertex="1">
-            <mxGeometry x="-1240" y="-290" width="120" height="60" as="geometry" />
+            <mxGeometry x="-1240" y="-310" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;b&gt;Affects&lt;/b&gt;" Description="The physical vulnerability refers to those structural characteristics of buildings that make them susceptible to damage when subjected to the action of flood water [please substitute with your text!]" References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="high (robust evidence)." Time_Lag="does not apply" id="_F0MfmOvoYsbLBurmLUC-62">
@@ -302,17 +302,17 @@
           </mxCell>
         </object>
         <object label="&lt;b&gt;Heatwaves&lt;/b&gt;" Description="Heatwaves are events characterized by high temperatures that can last several days, and can be harmful for both the population and the ecological system in the urban environment.&#xa;In Bolzano the yearly average temperature is XXX, and in the last 10 years an increase of high temperature events has been observed [DA MODIFICARE OPPORTUNAMENTE]" Type="Hazard" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this hazard component (if applicable)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" References="Cited references (scientific papers, news item, etc." Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." id="GEd216P_miA6AbYHsWlQ-1">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="-250" y="-450" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
         <object label="increase of Health impacts (morbidity, mortality)" Description="Strong traffic disturbance includes the segregation of residential areas as well as critical infrastructure, leading to increase travel time and possibly inability to reach certain places." Type="Impact" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this component (if applicable)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" References="Cited references (scientific papers, news item, etc." Confidence="medium (moderate evidence) or high (robust evidence)." id="GEd216P_miA6AbYHsWlQ-2">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=light-dark(#CCCCCC,#202020);strokeColor=#36393d;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=light-dark(#CCCCCC,#202020);strokeColor=#36393d;glass=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="-350" y="-140" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;b&gt;Leads to&lt;/b&gt;" Description="Landslides can both directly damage the surface of the road, or make them locally unusable due to debris accumulation. [please substitute with your text!]. " References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="high (robust evidence)." Time_Lag="minutes to hours&#xa;" id="GEd216P_miA6AbYHsWlQ-3">
-          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0.16;exitY=1.033;exitDx=0;exitDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="GEd216P_miA6AbYHsWlQ-1" target="GEd216P_miA6AbYHsWlQ-2">
+          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0.16;exitY=1.033;exitDx=0;exitDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="GEd216P_miA6AbYHsWlQ-1" target="GEd216P_miA6AbYHsWlQ-2" edge="1">
             <mxGeometry x="0.018" width="50" height="50" relative="1" as="geometry">
               <mxPoint x="-220" y="-260" as="sourcePoint" />
               <mxPoint x="-370" y="-108.5" as="targetPoint" />
@@ -324,12 +324,12 @@
           </mxCell>
         </object>
         <object label="Increased stress of urban green" Description="Strong traffic disturbance includes the segregation of residential areas as well as critical infrastructure, leading to increase travel time and possibly inability to reach certain places." Type="Impact" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this component (if applicable)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" References="Cited references (scientific papers, news item, etc." Confidence="medium (moderate evidence) or high (robust evidence)." id="GEd216P_miA6AbYHsWlQ-4">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=light-dark(#CCCCCC,#202020);strokeColor=#36393d;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=light-dark(#CCCCCC,#202020);strokeColor=#36393d;glass=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="-250" y="-310" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;b&gt;Leads to&lt;/b&gt;" Description="Landslides can both directly damage the surface of the road, or make them locally unusable due to debris accumulation. [please substitute with your text!]. " References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="high (robust evidence)." Time_Lag="minutes to hours&#xa;" id="GEd216P_miA6AbYHsWlQ-5">
-          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GEd216P_miA6AbYHsWlQ-4" target="GEd216P_miA6AbYHsWlQ-14">
+          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="GEd216P_miA6AbYHsWlQ-4" target="GEd216P_miA6AbYHsWlQ-14" edge="1">
             <mxGeometry x="0.018" width="50" height="50" relative="1" as="geometry">
               <mxPoint x="-170.3199999999997" y="-251" as="sourcePoint" />
               <mxPoint x="-110" y="200" as="targetPoint" />
@@ -341,12 +341,12 @@
           </mxCell>
         </object>
         <object label="Green infrastructure" Description="Description of residential population in terms of no of inhabitants per square km" Type="Exposure" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this component (if applicable)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" References="Cited references (scientific papers, news item, etc." Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." id="GEd216P_miA6AbYHsWlQ-6">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#fff2cc;strokeColor=#d6b656;glass=0;shadow=0;fontStyle=1" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#fff2cc;strokeColor=#d6b656;glass=0;shadow=0;fontStyle=1" parent="1" vertex="1">
             <mxGeometry x="20" y="-230" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;b&gt;Impacts on&lt;/b&gt;" Description="Residents of the damaged buildings are affected by the inagibility [please substitute with your text!]" References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="high (robust evidence)." Time_Lag="not applicable" id="GEd216P_miA6AbYHsWlQ-7">
-          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;strokeColor=#006600;dashed=1;dashPattern=12 12;edgeStyle=elbowEdgeStyle;jumpStyle=arc;jumpSize=7;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GEd216P_miA6AbYHsWlQ-4" target="GEd216P_miA6AbYHsWlQ-6">
+          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;strokeColor=#006600;dashed=1;dashPattern=12 12;edgeStyle=elbowEdgeStyle;jumpStyle=arc;jumpSize=7;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GEd216P_miA6AbYHsWlQ-4" target="GEd216P_miA6AbYHsWlQ-6" edge="1">
             <mxGeometry x="-0.0651" width="50" height="50" relative="1" as="geometry">
               <mxPoint x="-340" y="-100" as="sourcePoint" />
               <mxPoint x="-450" y="20" as="targetPoint" />
@@ -356,12 +356,12 @@
           </mxCell>
         </object>
         <object label="Urban Heat Island effect" Description="The specific topology of road network in the town of Genoa shows evidences of non-redundancy, in particular in the hilly areas characterized by small and meandering roads." Type="Vulnerability" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this component (if applicable)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" References="Cited references (scientific papers, news item, etc." Confidence="medium (moderate evidence) to high (robust evidence)." id="GEd216P_miA6AbYHsWlQ-8">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="30" y="-350" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;b&gt;Leads to&lt;/b&gt;" Description="Landslides can both directly damage the surface of the road, or make them locally unusable due to debris accumulation. [please substitute with your text!]. " References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="high (robust evidence)." Time_Lag="minutes to hours&#xa;" id="GEd216P_miA6AbYHsWlQ-12">
-          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GEd216P_miA6AbYHsWlQ-1" target="GEd216P_miA6AbYHsWlQ-4">
+          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="GEd216P_miA6AbYHsWlQ-1" target="GEd216P_miA6AbYHsWlQ-4" edge="1">
             <mxGeometry x="0.018" width="50" height="50" relative="1" as="geometry">
               <mxPoint y="-340" as="sourcePoint" />
               <mxPoint x="-83" y="-226" as="targetPoint" />
@@ -373,7 +373,7 @@
           </mxCell>
         </object>
         <object label="&lt;b&gt;Affects&lt;/b&gt;" Description="limited redundancy of the road network and other topological weaknesses may increase the impact of road damage on the capacity of the network of carrying traffic, therefore resulting in significant traffic disturbances.&#xa;[please substitute with your text!]" References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="high (robust evidence)." Time_Lag="minutes to hours" id="GEd216P_miA6AbYHsWlQ-13">
-          <mxCell style="endArrow=classic;html=1;rounded=1;strokeColor=#006600;edgeStyle=elbowEdgeStyle;curved=0;jumpStyle=arc;jumpSize=7;shadow=0;flowAnimation=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GEd216P_miA6AbYHsWlQ-8" target="GEd216P_miA6AbYHsWlQ-4">
+          <mxCell style="endArrow=classic;html=1;rounded=1;strokeColor=#006600;edgeStyle=elbowEdgeStyle;curved=0;jumpStyle=arc;jumpSize=7;shadow=0;flowAnimation=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GEd216P_miA6AbYHsWlQ-8" target="GEd216P_miA6AbYHsWlQ-4" edge="1">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
               <mxPoint x="-90" y="-250" as="sourcePoint" />
               <mxPoint x="-10" y="-250" as="targetPoint" />
@@ -385,17 +385,17 @@
           </mxCell>
         </object>
         <object label="Risk to urban green infrastructure" Description="Description of the (key) Risk" Type="Risk" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this component (if applicable)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" References="Cited references (scientific papers, news item, etc." Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." id="GEd216P_miA6AbYHsWlQ-14">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;glass=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="-180" y="200" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
         <object label="Socio-economic vulnerability" Description="The specific topology of road network in the town of Genoa shows evidences of non-redundancy, in particular in the hilly areas characterized by small and meandering roads." Type="Vulnerability" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this component (if applicable)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" References="Cited references (scientific papers, news item, etc." Confidence="medium (moderate evidence) to high (robust evidence)." id="GEd216P_miA6AbYHsWlQ-15">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="20" y="-110" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;b&gt;Affects&lt;/b&gt;" Description="limited redundancy of the road network and other topological weaknesses may increase the impact of road damage on the capacity of the network of carrying traffic, therefore resulting in significant traffic disturbances.&#xa;[please substitute with your text!]" References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="high (robust evidence)." Time_Lag="minutes to hours" id="GEd216P_miA6AbYHsWlQ-16">
-          <mxCell style="endArrow=classic;html=1;rounded=1;strokeColor=#006600;edgeStyle=elbowEdgeStyle;curved=0;jumpStyle=arc;jumpSize=7;shadow=0;flowAnimation=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="GEd216P_miA6AbYHsWlQ-15" target="GEd216P_miA6AbYHsWlQ-2">
+          <mxCell style="endArrow=classic;html=1;rounded=1;strokeColor=#006600;edgeStyle=elbowEdgeStyle;curved=0;jumpStyle=arc;jumpSize=7;shadow=0;flowAnimation=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="GEd216P_miA6AbYHsWlQ-15" target="GEd216P_miA6AbYHsWlQ-2" edge="1">
             <mxGeometry x="-0.527" width="50" height="50" relative="1" as="geometry">
               <mxPoint y="-40" as="sourcePoint" />
               <mxPoint x="-160" as="targetPoint" />
@@ -407,12 +407,12 @@
           </mxCell>
         </object>
         <object label="Uninformed behavior of inhabitants" Description="The specific topology of road network in the town of Genoa shows evidences of non-redundancy, in particular in the hilly areas characterized by small and meandering roads." Type="Vulnerability" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this component (if applicable)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" References="Cited references (scientific papers, news item, etc." Confidence="medium (moderate evidence) to high (robust evidence)." id="GEd216P_miA6AbYHsWlQ-17">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="20" y="-15" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;b&gt;Affects&lt;/b&gt;" Description="limited redundancy of the road network and other topological weaknesses may increase the impact of road damage on the capacity of the network of carrying traffic, therefore resulting in significant traffic disturbances.&#xa;[please substitute with your text!]" References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="high (robust evidence)." Time_Lag="minutes to hours" id="GEd216P_miA6AbYHsWlQ-18">
-          <mxCell style="endArrow=classic;html=1;rounded=1;strokeColor=#006600;edgeStyle=elbowEdgeStyle;curved=0;jumpStyle=arc;jumpSize=7;shadow=0;flowAnimation=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="GEd216P_miA6AbYHsWlQ-17" target="GEd216P_miA6AbYHsWlQ-2">
+          <mxCell style="endArrow=classic;html=1;rounded=1;strokeColor=#006600;edgeStyle=elbowEdgeStyle;curved=0;jumpStyle=arc;jumpSize=7;shadow=0;flowAnimation=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="GEd216P_miA6AbYHsWlQ-17" target="GEd216P_miA6AbYHsWlQ-2" edge="1">
             <mxGeometry x="-0.6111" width="50" height="50" relative="1" as="geometry">
               <mxPoint x="5" y="15" as="sourcePoint" />
               <mxPoint x="-245" y="-15" as="targetPoint" />
@@ -424,12 +424,12 @@
           </mxCell>
         </object>
         <object label="Socio-economic impact on population" Description="Strong traffic disturbance includes the segregation of residential areas as well as critical infrastructure, leading to increase travel time and possibly inability to reach certain places." Type="Impact" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this component (if applicable)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" References="Cited references (scientific papers, news item, etc." Confidence="medium (moderate evidence) or high (robust evidence)." id="GEd216P_miA6AbYHsWlQ-19">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=light-dark(#CCCCCC,#202020);strokeColor=#36393d;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=light-dark(#CCCCCC,#202020);strokeColor=#36393d;glass=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="-260" y="50" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
         <object label="Leads to" Description="contributes to the risk [please substitute with your text!]. " References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="high (robust evidence)." Time_Lag="weeks to months&#xa;" id="GEd216P_miA6AbYHsWlQ-20">
-          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GEd216P_miA6AbYHsWlQ-2" target="GEd216P_miA6AbYHsWlQ-19">
+          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="GEd216P_miA6AbYHsWlQ-2" target="GEd216P_miA6AbYHsWlQ-19" edge="1">
             <mxGeometry x="0.018" width="50" height="50" relative="1" as="geometry">
               <mxPoint x="-280" y="-70" as="sourcePoint" />
               <mxPoint x="-530" y="210" as="targetPoint" />
@@ -441,7 +441,7 @@
           </mxCell>
         </object>
         <object label="Leads to" Description="contributes to the risk [please substitute with your text!]. " References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="high (robust evidence)." Time_Lag="weeks to months&#xa;" id="GEd216P_miA6AbYHsWlQ-21">
-          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GEd216P_miA6AbYHsWlQ-19" target="_F0MfmOvoYsbLBurmLUC-41">
+          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="GEd216P_miA6AbYHsWlQ-19" target="_F0MfmOvoYsbLBurmLUC-41" edge="1">
             <mxGeometry x="0.018" width="50" height="50" relative="1" as="geometry">
               <mxPoint x="-270" y="130" as="sourcePoint" />
               <mxPoint x="-220" y="260" as="targetPoint" />
@@ -453,7 +453,7 @@
           </mxCell>
         </object>
         <object label="&lt;b&gt;Impacts on&lt;/b&gt;" Description="Residents of the damaged buildings are affected by the inagibility [please substitute with your text!]" References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="high (robust evidence)." Time_Lag="not applicable" id="GEd216P_miA6AbYHsWlQ-22">
-          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#006600;dashed=1;dashPattern=12 12;edgeStyle=elbowEdgeStyle;jumpStyle=arc;jumpSize=7;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GEd216P_miA6AbYHsWlQ-19" target="_F0MfmOvoYsbLBurmLUC-55">
+          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#006600;dashed=1;dashPattern=12 12;edgeStyle=elbowEdgeStyle;jumpStyle=arc;jumpSize=7;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GEd216P_miA6AbYHsWlQ-19" target="_F0MfmOvoYsbLBurmLUC-55" edge="1">
             <mxGeometry x="0.0031" y="1" width="50" height="50" relative="1" as="geometry">
               <mxPoint x="-340" y="-100" as="sourcePoint" />
               <mxPoint x="-450" y="20" as="targetPoint" />
