@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.5">
   <diagram name="Pagina-1" id="luuT_doJFNInnU2bNvtK">
-    <mxGraphModel dx="2369" dy="1537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2777" dy="1748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <object label="" Impact_chain_title="Impact Chain BOLZANO - Multi-hazard / multi-risk" impact_chain_geographical_scope="Municipality of Bolzano, Trentino/Alto-Adige, Italy" impact_chain_temporal_scope="Current time, short-term future" impact_chain_authors="" Impact_chain_references="" impact_chain_purpose="Analysis of key risks related to climate-affected natural hazards (fluvial floods, landslides, heatwaves) on the municipality of Bolzano." impact_chain_last_modified="" id="0">
           <mxCell />
@@ -244,7 +244,7 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object label="&lt;b&gt;Global Warming&lt;/b&gt;" Description="Global warming is particularly evident in mountainous areas across Central and Southwestern Europe. " Type="Hazard" Layer="" File="" Source="Literature" References="Kotlarski, S., Gobiet, A., Morin, S. et al. 21st Century alpine climate change. Clim Dyn 60, 65–86 (2023). https://doi.org/10.1007/s00382-022-06303-3" Confidence="High" id="ECXuk0cyJxcjQpkp4siu-32">
+        <object label="&lt;b&gt;Global Warming&lt;/b&gt; in the Alps" Description="Global warming is particularly evident in mountainous areas across Central and Southwestern Europe. " Type="Hazard" Layer="" File="" Source="Literature" References="Kotlarski, S., Gobiet, A., Morin, S. et al. 21st Century alpine climate change. Clim Dyn 60, 65–86 (2023). https://doi.org/10.1007/s00382-022-06303-3" Confidence="High" id="ECXuk0cyJxcjQpkp4siu-32">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="-454" y="-850" width="250" height="40" as="geometry" />
           </mxCell>
