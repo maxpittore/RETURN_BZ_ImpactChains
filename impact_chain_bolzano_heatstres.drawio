@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.5">
   <diagram name="Pagina-1" id="luuT_doJFNInnU2bNvtK">
-    <mxGraphModel dx="2637" dy="1675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2369" dy="1537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <object label="" Impact_chain_title="Impact Chain BOLZANO - Multi-hazard / multi-risk" impact_chain_geographical_scope="Municipality of Bolzano, Trentino/Alto-Adige, Italy" impact_chain_temporal_scope="Current time, short-term future" impact_chain_authors="" Impact_chain_references="" impact_chain_purpose="Analysis of key risks related to climate-affected natural hazards (fluvial floods, landslides, heatwaves) on the municipality of Bolzano." impact_chain_last_modified="" id="0">
           <mxCell />
@@ -94,7 +94,7 @@
         </object>
         <object label="&lt;b&gt;Impacts on&lt;/b&gt;" Description="Residents of the damaged buildings are affected by the inagibility [please substitute with your text!]" References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="*RETURN TBD* &#xa;high (robust evidence)." Time_Lag="not applicable" id="ECXuk0cyJxcjQpkp4siu-14">
           <mxCell style="endArrow=classic;html=1;rounded=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;strokeColor=#006600;dashed=1;dashPattern=12 12;edgeStyle=elbowEdgeStyle;jumpStyle=arc;jumpSize=7;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ECXuk0cyJxcjQpkp4siu-11" target="ECXuk0cyJxcjQpkp4siu-13" edge="1">
-            <mxGeometry x="-0.0651" width="50" height="50" relative="1" as="geometry">
+            <mxGeometry x="-0.0693" width="50" height="50" relative="1" as="geometry">
               <mxPoint x="-340" y="-100" as="sourcePoint" />
               <mxPoint x="-450" y="20" as="targetPoint" />
               <mxPoint as="offset" />
@@ -102,11 +102,6 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="ECXuk0cyJxcjQpkp4siu-15" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ECXuk0cyJxcjQpkp4siu-14" vertex="1" connectable="0">
-          <mxGeometry x="-0.1535" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <object label="Urban Heat Island effect" Description="The morphology and composition of the urban environment, including the distribution and extent of green and white areas but also the height and shape of the buildings and the width of the streets, determine strong heterogeneity in the surface and air temperature. When comparing the urban temperature with a nearby rural temperature, the difference creates an effect of higher heat towards the center of the city. This is referred to as the &quot;heat island effect&quot; and is often, due to the properties of the materials, more pronounced at night. Heatwaves, contrary to common knowledge, tend to mitigate this effect by making the rural environment unable to cool enough during night, making the difference in temperature between urban and rural environments less pronounced. In the case of heatwaves, both rural and urban areas are harder to live in when the temperature exceeds a certain threshold, whereas urban areas are already harder to live in with a lower threshold during night than rural areas.&#xa;" Type="Vulnerability" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this component (if applicable)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" References="Cited references (scientific papers, news item, etc." Confidence="*RETURN TBD* &#xa;medium (moderate evidence) to high (robust evidence)." id="ECXuk0cyJxcjQpkp4siu-16">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="20" y="-350" width="120" height="60" as="geometry" />
@@ -147,7 +142,7 @@
           </mxCell>
         </object>
         <object label="&lt;b&gt;Affects&lt;/b&gt;" Description="Socio-economic vulnerability — including poverty, low education, informal employment, or lack of access to health services — increases the likelihood and severity of heat-related morbidity and mortality. Vulnerable groups may have fewer adaptive options, higher baseline health risks, and reduced coping capacity during extreme heat events." References="&#x9;&#xa;https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-7/" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="High" Time_Lag="Immediate to short term" id="ECXuk0cyJxcjQpkp4siu-21">
-          <mxCell style="endArrow=classic;html=1;rounded=1;strokeColor=#006600;edgeStyle=elbowEdgeStyle;curved=0;jumpStyle=arc;jumpSize=7;shadow=0;flowAnimation=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="ECXuk0cyJxcjQpkp4siu-20" target="ECXuk0cyJxcjQpkp4siu-9" edge="1">
+          <mxCell style="endArrow=classic;html=1;rounded=1;strokeColor=#006600;edgeStyle=elbowEdgeStyle;curved=0;jumpStyle=arc;jumpSize=7;shadow=0;flowAnimation=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ECXuk0cyJxcjQpkp4siu-20" target="ECXuk0cyJxcjQpkp4siu-9" edge="1">
             <mxGeometry x="-0.5261" width="50" height="50" relative="1" as="geometry">
               <mxPoint y="-40" as="sourcePoint" />
               <mxPoint x="-160" as="targetPoint" />
