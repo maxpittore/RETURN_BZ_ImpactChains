@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.5">
   <diagram name="Pagina-1" id="luuT_doJFNInnU2bNvtK">
-    <mxGraphModel dx="2807" dy="1940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2637" dy="1675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <object label="" Impact_chain_title="Impact Chain BOLZANO - Multi-hazard / multi-risk" impact_chain_geographical_scope="Municipality of Bolzano, Trentino/Alto-Adige, Italy" impact_chain_temporal_scope="Current time, short-term future" impact_chain_authors="" Impact_chain_references="" impact_chain_purpose="Analysis of key risks related to climate-affected natural hazards (fluvial floods, landslides, heatwaves) on the municipality of Bolzano." impact_chain_last_modified="" id="0">
           <mxCell />
@@ -50,7 +50,7 @@
         </object>
         <object label="&lt;b&gt;Heatwaves&lt;/b&gt;" Description="Heatwaves are defined as periods of at least three consecutive days with daily maximum temperatures above the 95th percentile threshold for the summer season (May–September), based on a 1981–2020 reference period. This definition is consistent with the RETURN methodology and applied using a fixed summer threshold." Type="Hazard" Layer="[to be defined for integration in RETURN platform]" File="[to be defined at BZ testbed scale]  " Source="Literature, expert judgement" References="Gaspard Simonet &amp; Alice Crespi, RETURN Bolzano Heatwave Analysis (Feb 2025); Crespi et al. (2020), PANGAEA dataset DOI: 10.1594/PANGAEA.924502" Confidence="High" id="ECXuk0cyJxcjQpkp4siu-8">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=0;" parent="1" vertex="1">
-            <mxGeometry x="-250" y="-450" width="120" height="60" as="geometry" />
+            <mxGeometry x="-250" y="-480" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
         <object label="Heat-related morbidity and mortality" Description="Heat-related morbidity and mortality refer to adverse health outcomes such as hospital admissions or deaths caused by exposure to high temperatures, either indoors or outdoors. These impacts are typically estimated using exposure–response functions based on epidemiological studies." Type="Impact" Layer="[to be defined for integration in RETURN platform]" File="[to be defined at BZ testbed scale]  " Source="Literature" References="Gasparrini et al. (2015), https://doi.org/10.1016/S0140-6736(14)62114-0; Ibbetson et al. (2021), https://doi.org/10.1016/j.crm.2021.100307&#xa;Cheng et a. 2019 10.1016/j.envres.2019.108610 ; Nawaro et al. 2023 10.3389/phrs.2023.1606266" Confidence="High" id="ECXuk0cyJxcjQpkp4siu-9">
@@ -212,19 +212,14 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object label="&lt;b&gt;Outdoor high temperatures&lt;/b&gt;" Description="Outdoor high temperatures refer to elevated ambient air temperatures in the external urban environment, including both extreme values and sustained seasonal increases. These temperatures may contribute to thermal discomfort, environmental stress, and increased health risks, particularly in densely built-up areas." Type="Hazard" Layer="[to be defined for integration in RETURN platform]" File="[to be defined at BZ testbed scale]  " Source="expert judgement" References="EURAC microclimate analysis" Confidence="High" id="ECXuk0cyJxcjQpkp4siu-28">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=0;" parent="1" vertex="1">
-            <mxGeometry x="-250" y="-600" width="120" height="60" as="geometry" />
-          </mxCell>
-        </object>
         <object label="&lt;b&gt;Leads to&lt;/b&gt;" Description="Heatwaves are defined as prolonged periods of outdoor high temperatures that exceed a specific percentile threshold for several consecutive days. They represent an acute manifestation of sustained ambient heat conditions." References="Crespi et al. (2020)" Source="Literature, expert judgement" Confidence="High" Time_Lag="Days" id="ECXuk0cyJxcjQpkp4siu-29">
-          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ECXuk0cyJxcjQpkp4siu-28" target="ECXuk0cyJxcjQpkp4siu-8" edge="1">
-            <mxGeometry x="0.0236" width="50" height="50" relative="1" as="geometry">
-              <mxPoint x="-190.71" y="-520" as="sourcePoint" />
+          <mxCell style="endArrow=classic;html=1;rounded=1;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="u5xlM17Ubp5brw4aW48N-8" target="ECXuk0cyJxcjQpkp4siu-8" edge="1">
+            <mxGeometry x="0.4723" width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="-330" y="-720" as="sourcePoint" />
               <mxPoint x="-190.71" y="-440" as="targetPoint" />
               <mxPoint as="offset" />
               <Array as="points">
-                <mxPoint x="-180.71" y="-490" />
+                <mxPoint x="-270" y="-680" />
               </Array>
             </mxGeometry>
           </mxCell>
@@ -254,19 +249,19 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object label="&lt;b&gt;Non-optimal temperature conditions&lt;/b&gt;" Description="Non-optimal temperature conditions refer to ambient temperatures that deviate from the local Minimum Mortality Temperature (MMT). These include both high and low temperatures relative to the optimal thermal threshold for human health." Type="Hazard" Layer="" File="" Source="Literature" References="Zhao et al. 2021, The Lancet. Global burden of mortality associated with non-optimal ambient temperatures 2000–2019. DOI: 10.1016/S2542-5196(21)00081-4" Confidence="High" id="ECXuk0cyJxcjQpkp4siu-32">
+        <object label="&lt;b&gt;Global Warming&lt;/b&gt;" Description="Global warming is particularly evident in mountainous areas across Central and Southwestern Europe. " Type="Hazard" Layer="" File="" Source="Literature" References="Kotlarski, S., Gobiet, A., Morin, S. et al. 21st Century alpine climate change. Clim Dyn 60, 65–86 (2023). https://doi.org/10.1007/s00382-022-06303-3" Confidence="High" id="ECXuk0cyJxcjQpkp4siu-32">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=0;" parent="1" vertex="1">
-            <mxGeometry x="-460" y="-710" width="250" height="40" as="geometry" />
+            <mxGeometry x="-454" y="-850" width="250" height="40" as="geometry" />
           </mxCell>
         </object>
         <object label="High indoor temperature exposure" Description="high indoor temperature exposure refers to elevated indoor temperatures during hot periods, resulting from the transfer and accumulation of external heat inside buildings." Type="Hazard" Layer="" File="" Source="Literature, expert judgement" References="WHO Housing and Health Guidelines (2018), ISBN: 9789241550376" Confidence="Medium" id="ECXuk0cyJxcjQpkp4siu-33">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=0;fontStyle=1" parent="1" vertex="1">
-            <mxGeometry x="-560" y="-590" width="120" height="60" as="geometry" />
+            <mxGeometry x="-560" y="-480" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
         <object label="Exceedance of indoor heat threshold" Description="Exceedance of indoor heat threshold refers to the condition in which indoor temperatures rise above a reference value associated with health or comfort risks. Thresholds may be based on health metrics such as the Minimum Mortality Temperature (MMT) or on thermal comfort indicators such as PMV/PPD or adaptive comfort limits (e.g. 26–28°C)." Type="Hazard" Layer="" File="" Source="Literature" References="Ibbetson et al. (2021), https://doi.org/10.1016/j.crm.2021.100307. &#xa; ASHRAE 55 (2020)" Confidence="High" id="ECXuk0cyJxcjQpkp4siu-34">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=0;fontStyle=1" parent="1" vertex="1">
-            <mxGeometry x="-560" y="-450" width="120" height="60" as="geometry" />
+            <mxGeometry x="-560" y="-330" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;b&gt;Leads to&lt;/b&gt;" Description="Sustained indoor exposure to high temperatures above health-relevant thresholds can trigger physiological stress and elevate health risks, particularly in vulnerable populations." References="Ibbetson et al. (2021), https://doi.org/10.1016/j.crm.2021.100307" Source="Literature" Confidence="High" Time_Lag="Hours to days" id="ECXuk0cyJxcjQpkp4siu-35">
@@ -275,9 +270,7 @@
               <mxPoint x="-380" y="-520" as="sourcePoint" />
               <mxPoint x="-500.5" y="-440" as="targetPoint" />
               <mxPoint as="offset" />
-              <Array as="points">
-                <mxPoint x="-491.21000000000004" y="-480" />
-              </Array>
+              <Array as="points" />
             </mxGeometry>
           </mxCell>
         </object>
@@ -287,25 +280,23 @@
           </mxCell>
         </object>
         <object label="&lt;b&gt;Leads to&lt;/b&gt;" Description="Outdoor high temperatures are one manifestation of non-optimal temperature conditions, representing a persistent seasonal hazard as well as the baseline for heatwave formation." References="Zhao et al. 2021" Source="Literature, expert judgement" Confidence="High" Time_Lag="Seasonal to long-term" id="ECXuk0cyJxcjQpkp4siu-37">
-          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ECXuk0cyJxcjQpkp4siu-32" target="ECXuk0cyJxcjQpkp4siu-28" edge="1">
+          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="u5xlM17Ubp5brw4aW48N-8" target="ECXuk0cyJxcjQpkp4siu-28" edge="1">
             <mxGeometry x="0.0204" width="50" height="50" relative="1" as="geometry">
               <mxPoint x="-40" y="-730" as="sourcePoint" />
               <mxPoint x="-40" y="-640" as="targetPoint" />
               <mxPoint as="offset" />
-              <Array as="points">
-                <mxPoint x="-200" y="-630" />
-              </Array>
+              <Array as="points" />
             </mxGeometry>
           </mxCell>
         </object>
         <object label="&lt;b&gt;Leads to&lt;/b&gt;" Description="Deviations from optimal ambient temperature can result in indoor thermal stress, especially in buildings with limited passive or active cooling. This link captures the transfer of outdoor climatic conditions into indoor environments." References="WHO Housing and Health Guidelines (2018)" Source="Literature, expert judgement" Confidence="High" Time_Lag="Hours to days" id="ECXuk0cyJxcjQpkp4siu-38">
-          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ECXuk0cyJxcjQpkp4siu-32" target="ECXuk0cyJxcjQpkp4siu-33" edge="1">
-            <mxGeometry x="0.0192" width="50" height="50" relative="1" as="geometry">
-              <mxPoint x="-60" y="-650" as="sourcePoint" />
+          <mxCell style="endArrow=classic;html=1;rounded=1;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ECXuk0cyJxcjQpkp4siu-28" target="ECXuk0cyJxcjQpkp4siu-33" edge="1">
+            <mxGeometry x="-0.0989" width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="-290" y="-560" as="sourcePoint" />
               <mxPoint x="-60" y="-560" as="targetPoint" />
               <mxPoint as="offset" />
               <Array as="points">
-                <mxPoint x="-350" y="-630" />
+                <mxPoint x="-490" y="-530" />
               </Array>
             </mxGeometry>
           </mxCell>
@@ -325,6 +316,36 @@
         <mxCell id="ECXuk0cyJxcjQpkp4siu-40" value="This impact chain outlines how non-optimal temperatures affect indoor and outdoor systems in Bolzano, with cascading effects on health and vulnerability.&lt;br data-end=&quot;918&quot; data-start=&quot;915&quot;&gt;&lt;br&gt;������ &lt;em data-end=&quot;975&quot; data-start=&quot;923&quot;&gt;Sections marked “RETURN TBD” need expert revision. (see UHI boxes)&lt;/em&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=17;fontStyle=0;verticalAlign=middle;align=center;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-1270" y="-344" width="370" height="160" as="geometry" />
         </mxCell>
+        <object label="&lt;b&gt;Leads to&lt;/b&gt;" Description="Heatwaves are defined as prolonged periods of outdoor high temperatures that exceed a specific percentile threshold for several consecutive days. They represent an acute manifestation of sustained ambient heat conditions." References="Crespi et al. (2020)" Source="Literature, expert judgement" Confidence="High" Time_Lag="Days" id="u5xlM17Ubp5brw4aW48N-5">
+          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ECXuk0cyJxcjQpkp4siu-8" target="ECXuk0cyJxcjQpkp4siu-33">
+            <mxGeometry x="0.0236" width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="-180" y="-530" as="sourcePoint" />
+              <mxPoint x="-180" y="-470" as="targetPoint" />
+              <mxPoint as="offset" />
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object label="&lt;b&gt;Outdoor high temperatures&lt;/b&gt;" Description="Outdoor high temperatures refer to elevated ambient air temperatures in the external urban environment, including both extreme values and sustained seasonal increases. These temperatures may contribute to thermal discomfort, environmental stress, and increased health risks, particularly in densely built-up areas." Type="Hazard" Layer="[to be defined for integration in RETURN platform]" File="[to be defined at BZ testbed scale]  " Source="expert judgement" References="EURAC microclimate analysis" Confidence="High" id="ECXuk0cyJxcjQpkp4siu-28">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=0;" parent="1" vertex="1">
+            <mxGeometry x="-559" y="-630" width="120" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;b&gt;Non-optimal temperature conditions&lt;/b&gt;" Description="Non-optimal temperature conditions refer to ambient temperatures that deviate from the local Minimum Mortality Temperature (MMT). These include both high and low temperatures relative to the optimal thermal threshold for human health." Type="Hazard" Layer="" File="" Source="Literature" References="Zhao et al. 2021, The Lancet. Global burden of mortality associated with non-optimal ambient temperatures 2000–2019. DOI: 10.1016/S2542-5196(21)00081-4" Confidence="High" id="u5xlM17Ubp5brw4aW48N-8">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=0;" vertex="1" parent="1">
+            <mxGeometry x="-454" y="-760" width="250" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;b&gt;Leads to&lt;/b&gt;" Description="Outdoor high temperatures are one manifestation of Global warming, representing a persistent seasonal hazard as well as the baseline for heatwave formation." References="Zhao et al. 2021" Source="Literature, expert judgement" Confidence="High" Time_Lag="Seasonal to long-term" id="u5xlM17Ubp5brw4aW48N-10">
+          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="ECXuk0cyJxcjQpkp4siu-32">
+            <mxGeometry x="0.0204" width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="-319" y="-710" as="sourcePoint" />
+              <mxPoint x="-330" y="-760" as="targetPoint" />
+              <mxPoint as="offset" />
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
