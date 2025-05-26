@@ -76,7 +76,7 @@
           </mxCell>
         </object>
         <object label="&lt;b&gt;Leads to&lt;/b&gt;" Description="Landslides can both directly damage the surface of the road, or make them locally unusable due to debris accumulation. [please substitute with your text!]. " References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="*RETURN TBD* &#xa;high (robust evidence)." Time_Lag="minutes to hours&#xa;" id="ECXuk0cyJxcjQpkp4siu-12">
-          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ECXuk0cyJxcjQpkp4siu-11" target="ECXuk0cyJxcjQpkp4siu-19" edge="1">
+          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ECXuk0cyJxcjQpkp4siu-11" target="ECXuk0cyJxcjQpkp4siu-19" edge="1">
             <mxGeometry x="0.018" width="50" height="50" relative="1" as="geometry">
               <mxPoint x="-170.3199999999997" y="-251" as="sourcePoint" />
               <mxPoint x="-110" y="200" as="targetPoint" />
@@ -109,7 +109,7 @@
         </object>
         <object label="&lt;b&gt;Leads to&lt;/b&gt;" Description="increase of frequency and intensity of heatwaves can lead to stress to urban green, for instance in terms of reduced growth and productivity and transpiration of urban vegetation." References="Chen et al. (2024) &quot;Divergent Drivers of Declining Urban Vegetation Productivity and Transpiration During Heatwaves&quot; (https://doi.org/10.1029/2023JD040390)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other): literature" Confidence="*RETURN TBD* high (robust evidence)." Time_Lag="days to weeks&#xa;" id="ECXuk0cyJxcjQpkp4siu-17">
           <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ECXuk0cyJxcjQpkp4siu-8" target="ECXuk0cyJxcjQpkp4siu-11" edge="1">
-            <mxGeometry x="0.018" width="50" height="50" relative="1" as="geometry">
+            <mxGeometry x="0.2727" width="50" height="50" relative="1" as="geometry">
               <mxPoint y="-340" as="sourcePoint" />
               <mxPoint x="-83" y="-226" as="targetPoint" />
               <mxPoint as="offset" />
