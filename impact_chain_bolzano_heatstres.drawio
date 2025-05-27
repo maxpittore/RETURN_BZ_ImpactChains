@@ -246,7 +246,7 @@
         </object>
         <object label="&lt;b&gt;Global Warming&lt;/b&gt; in the Alps" Description="Global warming is particularly evident in mountainous areas across Central and Southwestern Europe. " Type="Hazard" Layer="" File="" Source="Literature" References="Kotlarski, S., Gobiet, A., Morin, S. et al. 21st Century alpine climate change. Clim Dyn 60, 65–86 (2023). https://doi.org/10.1007/s00382-022-06303-3" Confidence="High" id="ECXuk0cyJxcjQpkp4siu-32">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=0;" parent="1" vertex="1">
-            <mxGeometry x="-454" y="-850" width="250" height="40" as="geometry" />
+            <mxGeometry x="-454" y="-863" width="250" height="40" as="geometry" />
           </mxCell>
         </object>
         <object label="High indoor temperature exposure" Description="high indoor temperature exposure refers to elevated indoor temperatures during hot periods, resulting from the transfer and accumulation of external heat inside buildings." Type="Hazard" Layer="" File="" Source="Literature, expert judgement" References="WHO Housing and Health Guidelines (2018), ISBN: 9789241550376" Confidence="Medium" id="ECXuk0cyJxcjQpkp4siu-33">
