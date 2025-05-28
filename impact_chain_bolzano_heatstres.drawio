@@ -29,7 +29,7 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object label="Residential population" Description="The residential population refers to people living in private households who may be exposed to indoor or outdoor heat conditions. Exposure is shaped by where and how people live, and by the characteristics of the built environment." Type="Exposure" Layer="[to be defined for integration in RETURN platform]" File="[to be defined at BZ testbed scale]  " Source="TDB" References="TDB (ISTAT population grid?)" Confidence="High" id="ECXuk0cyJxcjQpkp4siu-5">
+        <object label="Residential population" Description="The residential population refers to people living in private households who may be exposed to indoor or outdoor heat conditions. Exposure is shaped by where and how people live, and by the characteristics of the built environment. The layer shows the total number of residents (inhabitants) as of 2022 in each census tract." Type="Exposure" Layer="no_resid" File="BZ_test_case_platform.shp" Source="Literature" References="Pittore M, Campalani P, Renner K, Plörer M, Tagliavini F (2023) Border-independent multi-functional, multi-hazard exposure modelling in Alpine regions. Nat Hazards." Confidence="High" id="ECXuk0cyJxcjQpkp4siu-5">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#fff2cc;strokeColor=#d6b656;glass=0;shadow=0;fontStyle=1" parent="1" vertex="1">
             <mxGeometry x="-810" y="-230" width="120" height="60" as="geometry" />
           </mxCell>
