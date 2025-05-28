@@ -1,8 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.9">
   <diagram name="Pagina-1" id="luuT_doJFNInnU2bNvtK">
-
-    <mxGraphModel dx="2863" dy="1792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-
+    <mxGraphModel dx="2440" dy="1574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <object label="" Impact_chain_title="Impact Chain BOLZANO - Multi-hazard / multi-risk" impact_chain_geographical_scope="Municipality of Bolzano, Trentino/Alto-Adige, Italy" impact_chain_temporal_scope="Current time, short-term future" impact_chain_authors="" Impact_chain_references="" impact_chain_purpose="Analysis of key risks related to climate-affected natural hazards (fluvial floods, landslides, heatwaves) on the municipality of Bolzano." impact_chain_last_modified="" id="0">
           <mxCell />
@@ -50,8 +48,7 @@
             <mxGeometry x="-620" y="196" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
-
-        <object label="&lt;b&gt;Heatwaves&lt;/b&gt;" Description="Heatwaves are defined as periods of at least three consecutive days with daily maximum temperatures above the 95th percentile threshold for the summer season (May–September), based on a 1981–2020 reference period. This definition is consistent with the RETURN methodology and applied using a fixed summer threshold. The layer shows the intensity of the August 2023 heatwave event in terms of total accumulated temperature that exceeds the established threshold throughout the entire duration of each heatwave event. The higher this intensity value, the more severe and impactful the heatwave, with the most extreme events reaching intensities of over 46°C in 2003 and nearly 39°C in 2023 (CAUTION: intensity looks like temperature but is not!). " Type="Hazard" Layer="HW_i_mean" File="BZ_test_case_platform " Source="Literature, expert judgement" References="Gaspard Simonet &amp; Alice Crespi, RETURN Bolzano Heatwave Analysis (Feb 2025); Crespi et al. (2020), PANGAEA dataset DOI: 10.1594/PANGAEA.924502" Confidence="High" id="ECXuk0cyJxcjQpkp4siu-8">
+        <object label="&lt;b&gt;Heatwaves&lt;/b&gt;" Description="Heatwaves are defined as periods of at least three consecutive days with daily maximum temperatures above the 95th percentile threshold for the summer season (May–September), based on a 1981–2020 reference period. This definition is consistent with the RETURN methodology and applied using a fixed summer threshold. The layer shows the intensity of the August 2023 heatwave event in terms of total accumulated temperature that exceeds the established threshold throughout the entire duration of each heatwave event. The higher this intensity value, the more severe and impactful the heatwave, with the most extreme events reaching intensities of over 46°C in 2003 and nearly 39°C in 2023 (CAUTION: intensity looks like temperature but is not!). " Type="Hazard" Layer="HW_i_mean" File="BZ_test_case_platform " Source="Literature, expert judgement" References="Gaspard Simonet &amp; Alice Crespi, RETURN Bolzano Heatwave Analysis (Feb 2025); Crespi et al. (2020), PANGAEA dataset DOI: 10.1594/PANGAEA.924502&#xa;&#xa;Perkins-Kirkpatrick, S.E., Lewis, S.C. Increasing trends in regional heatwaves. Nat Commun 11, 3357 (2020). https://doi.org/10.1038/s41467-020-16970-7" Confidence="High" id="ECXuk0cyJxcjQpkp4siu-8">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="-250" y="-480" width="120" height="60" as="geometry" />
           </mxCell>
