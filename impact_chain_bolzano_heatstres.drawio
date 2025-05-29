@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.1.1">
   <diagram name="Pagina-1" id="luuT_doJFNInnU2bNvtK">
-    <mxGraphModel dx="2440" dy="1574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2650" dy="1713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <object label="" Impact_chain_title="Impact Chain BOLZANO - Multi-hazard / multi-risk" impact_chain_geographical_scope="Municipality of Bolzano, Trentino/Alto-Adige, Italy" impact_chain_temporal_scope="Current time, short-term future" impact_chain_authors="" Impact_chain_references="" impact_chain_purpose="Analysis of key risks related to climate-affected natural hazards (fluvial floods, landslides, heatwaves) on the municipality of Bolzano." impact_chain_last_modified="" id="0">
           <mxCell />
@@ -102,9 +102,9 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object label="Urban Heat Island effect" Description="The morphology and composition of the urban environment, including the distribution and extent of green and white areas but also the height and shape of the buildings and the width of the streets, determine strong heterogeneity in the surface and air temperature. When comparing the urban temperature with a nearby rural temperature, the difference creates an effect of higher heat towards the center of the city. This is referred to as the &quot;heat island effect&quot; and is often, due to the properties of the materials, more pronounced at night. Heatwaves, contrary to common knowledge, tend to mitigate this effect by making the rural environment unable to cool enough during night, making the difference in temperature between urban and rural environments less pronounced. In the case of heatwaves, both rural and urban areas are harder to live in when the temperature exceeds a certain threshold, whereas urban areas are already harder to live in with a lower threshold during night than rural areas. The layer describes the mean difference in temperature (altitude-corrected) between each census tract and a reference (mostly green) area in the municipality during the heatwave of August 2023." Type="Vulnerability" Layer="SHUI_mean" File="BZ_test_case_platform.shp" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" References="Cited references (scientific papers, news item, etc." Confidence="*RETURN TBD* &#xa;medium (moderate evidence) to high (robust evidence)." id="ECXuk0cyJxcjQpkp4siu-16">
+        <object label="Urban Heat Island effect" Description="The morphology and composition of the urban environment, including the distribution and extent of green and white areas but also the height and shape of the buildings and the width of the streets, determine strong heterogeneity in the surface and air temperature. When comparing the urban temperature with a nearby rural temperature, the difference creates an effect of higher heat towards the center of the city. This is referred to as the &quot;heat island effect&quot; and is often, due to the properties of the materials, more pronounced at night. Heatwaves, contrary to common knowledge, tend to mitigate this effect by making the rural environment unable to cool enough during night, making the difference in temperature between urban and rural environments less pronounced. In the case of heatwaves, both rural and urban areas are harder to live in when the temperature exceeds a certain threshold, whereas urban areas are already harder to live in with a lower threshold during night than rural areas. The layer describes the mean difference in temperature (altitude-corrected) between each census tract and a reference (mostly green) area in the municipality during the heatwave of August 2023." Type="Vulnerability" Layer="SHUI_mean" File="BZ_test_case_platform.shp" Source="Literature, expert judgement" References="Pappalardo, S., Zanetti, C., &amp; Todeschi, V. (2023). Mapping urban heat islands and heat-related risk during heat waves from a climate justice perspective: A case study in the municipality of Padua (Italy) for inclusive adaptation policies. Landscape and Urban Planning, 238, 104831. https://doi.org/10.1016/j.landurbplan.2023.104831" Confidence="High" id="ECXuk0cyJxcjQpkp4siu-16">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=0;shadow=0;" parent="1" vertex="1">
-            <mxGeometry x="20" y="-350" width="120" height="60" as="geometry" />
+            <mxGeometry x="20" y="-410" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;b&gt;Leads to&lt;/b&gt;" Description="increase of frequency and intensity of heatwaves can lead to stress to urban green, for instance in terms of reduced growth and productivity and transpiration of urban vegetation." References="Chen et al. (2024) &quot;Divergent Drivers of Declining Urban Vegetation Productivity and Transpiration During Heatwaves&quot; (https://doi.org/10.1029/2023JD040390)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other): literature" Confidence="*RETURN TBD* high (robust evidence)." Time_Lag="days to weeks&#xa;" id="ECXuk0cyJxcjQpkp4siu-17">
@@ -209,7 +209,7 @@
         </object>
         <object label="&lt;b&gt;Leads to&lt;/b&gt;" Description="Heatwaves are defined as prolonged periods of outdoor high temperatures that exceed a specific percentile threshold for several consecutive days. They represent an acute manifestation of sustained ambient heat conditions." References="Crespi et al. (2020)" Source="Literature, expert judgement" Confidence="High" Time_Lag="Days" id="ECXuk0cyJxcjQpkp4siu-29">
           <mxCell style="endArrow=classic;html=1;rounded=1;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="u5xlM17Ubp5brw4aW48N-8" target="ECXuk0cyJxcjQpkp4siu-8" edge="1">
-            <mxGeometry x="0.4723" width="50" height="50" relative="1" as="geometry">
+            <mxGeometry x="0.5778" width="50" height="50" relative="1" as="geometry">
               <mxPoint x="-330" y="-720" as="sourcePoint" />
               <mxPoint x="-190.71" y="-440" as="targetPoint" />
               <mxPoint as="offset" />
@@ -338,6 +338,48 @@
               <mxPoint x="-330" y="-760" as="targetPoint" />
               <mxPoint as="offset" />
               <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object label="Urban Morphology" Description="Urban morphology refers to the physical form, structure, and spatial configuration of the urban environment. It encompasses the layout and dimensions of buildings, streets, open spaces, and their arrangement within the urban fabric. Urban morphology strongly influences the development and intensity of the Urban Heat Island through its effects on solar radiation absorption, heat storage, airflow, and radiative cooling. Key indicators include building density, building height, and sky view factor (portion of the sky visible from a given point on the ground)." Type="Vulnerability" Layer="" File="" Source="Literature, expert judgement" References="Gerçek, D., &amp; Güven, İ. T. (2023). Assessment of Mutual Variation of Near-Surface Air Temperature, Land Surface Temperature and Driving Urban Parameters at Urban Microscale. Sustainability, 15(22), 15710. https://doi.org/10.3390/su152215710" Confidence="High" id="MYJSUo-Et9CENf2Uq-6n-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=0;shadow=0;" vertex="1" parent="1">
+            <mxGeometry x="240" y="-470" width="120" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Biophysical Factors" Description="Biophysical aspects refer to the physical and biological characteristics of land surfaces—such as vegetation cover, surface imperviousness, albedo, and solar radiation—that influence the thermal properties and energy balance of a given land use or land cover type. These aspects determine how different surfaces absorb, store, and release heat, and are key drivers of land surface temperature variation and Urban Heat Island effects" Type="Vulnerability" Layer="" File="" Source="Literature, expert judgement" References="Gerçek, D., &amp; Güven, İ. T. (2023). Assessment of Mutual Variation of Near-Surface Air Temperature, Land Surface Temperature and Driving Urban Parameters at Urban Microscale. Sustainability, 15(22), 15710. https://doi.org/10.3390/su152215710" Confidence="High" id="MYJSUo-Et9CENf2Uq-6n-2">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=0;shadow=0;" vertex="1" parent="1">
+            <mxGeometry x="240" y="-354" width="120" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;b&gt;Affects&lt;/b&gt;" Description="the effect of UHI might increase the stress on the vegetation due to higher surface temperature" References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="*RETURN TBD* &#xa;high (robust evidence)." Time_Lag="minutes to hours" id="MYJSUo-Et9CENf2Uq-6n-4">
+          <mxCell style="endArrow=classic;html=1;rounded=1;strokeColor=#006600;edgeStyle=elbowEdgeStyle;curved=0;jumpStyle=arc;jumpSize=7;shadow=0;flowAnimation=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MYJSUo-Et9CENf2Uq-6n-1" target="ECXuk0cyJxcjQpkp4siu-16">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="240" y="-430" as="sourcePoint" />
+              <mxPoint x="90" y="-390" as="targetPoint" />
+              <mxPoint as="offset" />
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object label="&lt;b&gt;Affects&lt;/b&gt;" Description="the effect of UHI might increase the stress on the vegetation due to higher surface temperature" References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="*RETURN TBD* &#xa;high (robust evidence)." Time_Lag="minutes to hours" id="MYJSUo-Et9CENf2Uq-6n-5">
+          <mxCell style="endArrow=classic;html=1;rounded=1;strokeColor=#006600;edgeStyle=elbowEdgeStyle;curved=0;jumpStyle=arc;jumpSize=7;shadow=0;flowAnimation=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="MYJSUo-Et9CENf2Uq-6n-2" target="ECXuk0cyJxcjQpkp4siu-16">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="220" y="-355" as="sourcePoint" />
+              <mxPoint x="140" y="-380" as="targetPoint" />
+              <mxPoint as="offset" />
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object label="&lt;b&gt;Affects&lt;/b&gt;" Description="the effect of UHI might increase the stress on the vegetation due to higher surface temperature" References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="*RETURN TBD* &#xa;high (robust evidence)." Time_Lag="minutes to hours" id="MYJSUo-Et9CENf2Uq-6n-6">
+          <mxCell style="endArrow=classic;html=1;rounded=1;strokeColor=#006600;edgeStyle=elbowEdgeStyle;curved=0;jumpStyle=arc;jumpSize=7;shadow=0;flowAnimation=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ECXuk0cyJxcjQpkp4siu-16" target="ECXuk0cyJxcjQpkp4siu-28">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="-270" y="-420" as="sourcePoint" />
+              <mxPoint x="-420" y="-380" as="targetPoint" />
+              <mxPoint as="offset" />
+              <Array as="points">
+                <mxPoint x="-60" y="-480" />
+              </Array>
             </mxGeometry>
           </mxCell>
         </object>
